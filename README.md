@@ -1,4 +1,5 @@
-Hii 👋, I’m @shrutipangare
+Hii there 👋, I’m Shruti Pangare - Junior Data Analyst
+
 
 <!---
 shrutipangare/shrutipangare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
